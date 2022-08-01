@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\animalsWorld\animalsWorld\bin\Debug\net6.0\animalsWorld.exe
+C:\Users\zeynep\source\repos\animalsWorld\animalsWorld\bin\Debug\net6.0\animalsWorld.deps.json
+C:\Users\zeynep\source\repos\animalsWorld\animalsWorld\bin\Debug\net6.0\animalsWorld.runtimeconfig.json
+C:\Users\zeynep\source\repos\animalsWorld\animalsWorld\bin\Debug\net6.0\animalsWorld.dll
+C:\Users\zeynep\source\repos\animalsWorld\animalsWorld\bin\Debug\net6.0\animalsWorld.pdb
+C:\Users\zeynep\source\repos\animalsWorld\animalsWorld\obj\Debug\net6.0\animalsWorld.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\animalsWorld\animalsWorld\obj\Debug\net6.0\animalsWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\animalsWorld\animalsWorld\obj\Debug\net6.0\animalsWorld.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\animalsWorld\animalsWorld\obj\Debug\net6.0\animalsWorld.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\animalsWorld\animalsWorld\obj\Debug\net6.0\animalsWorld.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\animalsWorld\animalsWorld\obj\Debug\net6.0\animalsWorld.dll
+C:\Users\zeynep\source\repos\animalsWorld\animalsWorld\obj\Debug\net6.0\refint\animalsWorld.dll
+C:\Users\zeynep\source\repos\animalsWorld\animalsWorld\obj\Debug\net6.0\animalsWorld.pdb
+C:\Users\zeynep\source\repos\animalsWorld\animalsWorld\obj\Debug\net6.0\animalsWorld.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\animalsWorld\animalsWorld\obj\Debug\net6.0\ref\animalsWorld.dll
